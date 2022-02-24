@@ -11,14 +11,15 @@ title: ASC (All Saints Code)
 # Description of the Site
 description: Blog for the ASC repo
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/Home.jpg
+site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: https://www.espressif.com/sites/default/files/support/banner.jpg
+
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: null@gmail.com
@@ -42,9 +43,10 @@ disqus-shortname: Tuwoo
 # Name of the Author
 author-name: Tuwookie
 # URL for the Image of the Author
-author-image: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+author-image: https://yt3.ggpht.com/a/AATXAJzwLVDyks23Ga6VDozvXX6p1TLlhFQwiaZIyg=s900-c-k-c0xffffffff-no-rj-mo
 # 60 Words About the Author
-author-about: A place to Showcase my personal projects. I still have tofigure out a permenent name for the blog. ASC Stands for all saints cod e since my name means All saint's but I don't think I want to keep that name. So I guess stay tuned for any changes!
+author-about: A place to Showcase my personal projects. I still have tofigure out a permenent name for the blog. ASC Stands for all saints cod e since my name means All saint's but I don't think I want to keep that name. 
+So I guess stay tuned for any changes!
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/Archisen
 
