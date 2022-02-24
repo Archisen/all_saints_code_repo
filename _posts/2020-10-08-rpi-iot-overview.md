@@ -95,7 +95,7 @@ To set up IoT stack I followed the Instructions found on the [IoT Stack wiki][IS
 |  Nodered  | 1880 |
 | Portainer | 9000 |
 | Graphana  | 3000 |
-|||
+| Mosquitto | 1883 |
 
 To connect to each container go into your web browser & type:
 
