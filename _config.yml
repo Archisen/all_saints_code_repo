@@ -43,7 +43,7 @@ disqus-shortname: Tuwoo
 # Name of the Author
 author-name: Tuwookie
 # URL for the Image of the Author
-author-image: https://github.com/Archisen/all_saints_code_repo/blob/blog-v2/assets/images/Author.JPEG
+author-image: /all_saints_code_repo/assets/images/Author.JPEG
 # 60 Words About the Author
 author-about: A place to Showcase my personal projects. I still have tofigure out a permenent name for the blog. ASC Stands for all saints cod e since my name means All saint's but I don't think I want to keep that name. So I guess stay tuned for any changes!
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
